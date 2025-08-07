@@ -182,4 +182,4 @@ MIT License
 ---
 
 <p align="center">
-  <b>Made with ❤️ by developers, for developers.</b> add this 
+  <b>Made with ❤️ by Kajal Mishra, for developers.</b> add this 
