@@ -164,9 +164,9 @@ Just edit [`questions.json`](Quiz%20App%20Master/questions.json):
 
 | Home Page | Quiz In Progress | End Screen | High Scores |
 |:---------:|:----------------:|:----------:|:-----------:|
-| ![) |<img width="1541" height="755" alt="Screenshot 2025-08-14 005358" src="https://github.com/user-attachments/assets/0a0f3dcb-8ca4-4b61-9c59-1e0c15db45c5" />
- ![Quiz](<img width="1730" height="957" alt="Screenshot 2025-08-14 005418" src="https://github.com/user-attachments/assets/dcfecf21-820d-4ba7-808d-8fe1851aecef" />
-) | ![End](https://placehold.co/250x150?text=End) | ![Scores](https://placehold.co/250x150?text=Scores) |
+| ![ |<img width="1541" height="755" alt="Screenshot 2025-08-14 005358" src="https://github.com/user-attachments/assets/0a0f3dcb-8ca4-4b61-9c59-1e0c15db45c5" />
+ ![Quiz]<img width="1730" height="957" alt="Screenshot 2025-08-14 005418" src="https://github.com/user-attachments/assets/dcfecf21-820d-4ba7-808d-8fe1851aecef" />
+ | ![End](https://placehold.co/250x150?text=End) | ![Scores](https://placehold.co/250x150?text=Scores) |
 
 ---
 
